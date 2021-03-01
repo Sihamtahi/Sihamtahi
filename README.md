@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I am  a software engineer student at ESI Algiers who is passionate about creating clean, unique, elegant and functional apps. Some technologies I enjoy working with include Flutter, Kotlin  and .Net core.
 
 
-## 🔭 I’m currently Learning how to use APIs with <a href="https://www.asyncapi.com">AsyncAPI</a>  and  <a href="https://www.openapis.org">OpenAPI</a>  initiatives & the Event-Driven APIs ⚡⚡. My project is about crating choreogrphies using events between two or more applications with pub/sub pattern.
+I’m currently Learning 🔭 how to use APIs with <a href="https://www.asyncapi.com">AsyncAPI</a>  and  <a href="https://www.openapis.org">OpenAPI</a>  initiatives & the Event-Driven APIs ⚡⚡. My project is about crating choreogrphies using events between two or more applications with pub/sub pattern.
 
 ## Find me around the web 🌎: <a href="https://github.com/Sihamtahi"><img align="left" width="150" height="150" src="https://github.com/Sihamtahi/Sihamtahi/blob/main/femalecodertocat.png"></a>
 - Tinkering with interactions on <a href="https://twitter.com/TahiSiham"> Twitter</a> 🏓
