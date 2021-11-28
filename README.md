@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I am a freshly graduated engineer from the Ecole Nationale Supérieure d'Informatique (ESI) in Algiers.  Some technologies I enjoy working with include Flutter, Kotlin  and .Net core.
 
 
-My graduation  project consists in working on 🔭 the use of APIs like <a href="https://www.asyncapi.com">AsyncAPI</a>  and  <a href="https://www.openapis.org">OpenAPI</a>  initiatives & the Event-Driven APIs ⚡⚡. My project is about crating choreogrphies using events between two or more applications with pub/sub pattern.
+My graduation  project consists on 🔭 the use of APIs standards like <a href="https://www.asyncapi.com">AsyncAPI</a>  and  <a href="https://www.openapis.org">OpenAPI</a>  initiatives & the Event-Driven APIs ⚡⚡. My project is about crating choreogrphies using events between two or more applications with pub/sub pattern.
 
 Currently, I am a Machine Learning for Data Science (MLDS) student at the University of Paris -Master 2- 
 
