@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 -->
 
  
-I am  a software engineer student at ESI Algiers who is passionate about creating clean, unique, elegant and functional apps. Some technologies I enjoy working with include Flutter, Kotlin  and .Net core.
+I am a freshly graduated engineer from the Ecole Nationale Supérieure d'Informatique (ESI) in Algiers.  Some technologies I enjoy working with include Flutter, Kotlin  and .Net core.
 
 
-I’m currently Learning 🔭 how to use APIs with <a href="https://www.asyncapi.com">AsyncAPI</a>  and  <a href="https://www.openapis.org">OpenAPI</a>  initiatives & the Event-Driven APIs ⚡⚡. My project is about crating choreogrphies using events between two or more applications with pub/sub pattern.
+My graduation  project consists in working on 🔭 the use of APIs like <a href="https://www.asyncapi.com">AsyncAPI</a>  and  <a href="https://www.openapis.org">OpenAPI</a>  initiatives & the Event-Driven APIs ⚡⚡. My project is about crating choreogrphies using events between two or more applications with pub/sub pattern.
+
+Currently, I am a Machine Learning for Data Science (MLDS) student at the University of Paris -Master 2- 
 
 ## Find me around the web 🌎: <a href="https://github.com/Sihamtahi"><img align="left" width="150" height="150" src="https://github.com/Sihamtahi/Sihamtahi/blob/main/femalecodertocat.png"></a>
 - Tinkering with interactions on <a href="https://twitter.com/TahiSiham"> Twitter</a> 🏓
