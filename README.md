@@ -27,3 +27,6 @@ Currently, I am a Machine Learning for Data Science (MLDS) student at the Univer
 ## Find me around the web 🌎: <a href="https://github.com/Sihamtahi"><img align="left" width="150" height="150" src="https://github.com/Sihamtahi/Sihamtahi/blob/main/femalecodertocat.png"></a>
 - Tinkering with interactions on <a href="https://twitter.com/TahiSiham"> Twitter</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/siham-tahi-277121181/">LinkedIn</a> 💼
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sihamtahi)](https://github.com/anuraghazra/github-readme-stats)
+
