@@ -23,16 +23,19 @@ I am a freshly graduated engineer from the Ecole Nationale Supérieure d'Informa
 My graduation  project consists on 🔭 the use of APIs standards like <a href="https://www.asyncapi.com">AsyncAPI</a>  and  <a href="https://www.openapis.org">OpenAPI</a>  initiatives & the Event-Driven APIs ⚡⚡. My project is about crating choreogrphies using events between two or more applications with pub/sub pattern.
 
 Currently, I am a Machine Learning for Data Science (MLDS) student at the University of Paris -Master 2- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sihamtahi&theme=omni&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sihamtahi&hide=TeX,HTML,HACK,jupyter%20notebook&layout=compact&theme=omni )
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sihamtahi)
 
 ## Find me around the web 🌎: <a href="https://github.com/Sihamtahi"><img align="left" width="150" height="150" src="https://github.com/Sihamtahi/Sihamtahi/blob/main/femalecodertocat.png"></a> 
 
 - Tinkering with interactions on <a href="https://twitter.com/TahiSiham"> Twitter</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/siham-tahi-277121181/">LinkedIn</a> 💼
 
-##
+ 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sihamtahi&theme=omni&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sihamtahi&hide=TeX,HTML,HACK,jupyter%20notebook&layout=compact&theme=omni )
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sihamtahi)
+
+
+
 
