@@ -29,10 +29,10 @@ Currently, I am a Machine Learning for Data Science (MLDS) student at the Univer
 - Tinkering with interactions on <a href="https://twitter.com/TahiSiham"> Twitter</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/siham-tahi-277121181/">LinkedIn</a> 💼
 
+##
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sihamtahi)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sihamtahi&theme=omni&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sihamtahi&hide=TeX,HTML,HACK,jupyter%20notebook&layout=compact&theme=omni )
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sihamtahi)
-
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sihamtahi&hide=TeX&layout=compact)-->
 
