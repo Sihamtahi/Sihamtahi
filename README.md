@@ -24,7 +24,7 @@ My graduation  project consists on 🔭 the use of APIs standards like <a href="
 
 Currently, I am a Machine Learning for Data Science (MLDS) student at the University of Paris -Master 2- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sihamtahi&theme=omni&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sihamtahi&hide=TeX,HTML,HACK,jupyter%20notebook&layout=compact&theme=omni )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sihamtahi&hide=TeX,HTML,HACK,css,R,PHP,jupyter%20notebook&layout=compact&theme=omni )
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sihamtahi)
 
 ## Find me around the web 🌎: <a href="https://github.com/Sihamtahi"><img align="left" width="150" height="150" src="https://github.com/Sihamtahi/Sihamtahi/blob/main/femalecodertocat.png"></a> 
