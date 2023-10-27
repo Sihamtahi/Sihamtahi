@@ -17,12 +17,19 @@ Here are some ideas to get you started:
 -->
 
  
-I am a freshly graduated engineer from the Ecole Nationale Supérieure d'Informatique (ESI) in Algiers.  Some technologies I enjoy working with include Flutter, Kotlin  and .Net core.
+I am a freshly graduated engineer from the Ecole Nationale Supérieure d'Informatique (ESI) in Algiers.  Some technologies I enjoy working with include java, Kotlin  and .Net core.
 
 
 My graduation  project consists on 🔭 the use of APIs standards like <a href="https://www.asyncapi.com">AsyncAPI</a>  and  <a href="https://www.openapis.org">OpenAPI</a>  initiatives & the Event-Driven APIs ⚡⚡. My project is about crating choreogrphies using events between two or more applications with pub/sub pattern.
 
-Currently, I am working as a Digital Manager at Réseau Canopée
+Currently, I am working as a Digital Manager and Software Enginneer at Réseau Canopée. My role as Software Engineer is : 
+- Definition of a project roadmap for Canopée members.
+- Requirements gathering + business workshop facilitation.
+- Application design + definition of business logic.
+- Definition of data model.
+- Use of Mulesoft for data integration.
+- Frontend with Vuejs.
+- Facilitation of Information System collaboration meetings.
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sihamtahi&theme=omni&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sihamtahi&hide=TeX,HTML,HACK,css,R,PHP,jupyter%20notebook&layout=compact&theme=omni )
